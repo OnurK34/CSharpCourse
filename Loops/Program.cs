@@ -28,7 +28,7 @@ static bool IsPrimeNumber(int number)
 }
 static void ForEachLoop()
 {
-    string[] students = new string[3] { "Engin", "Derin", "Salih" };
+    string[] students = new string[3] { "Onur", "Adem", "Enes" };
 
     foreach (var student in students)
     {

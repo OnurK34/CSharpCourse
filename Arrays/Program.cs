@@ -1,6 +1,6 @@
-﻿string[] students = new string[3] { "Engin", "Derin", "Salih" };
+﻿string[] students = new string[3] { "Onur", "Adem", "Enes" };
 
-string[] students2 = { "Engin", "Derin", "Salih" };
+string[] students2 = { "Onur", "Adem", "Enes" };
 //students2[3] = "Ahmet";
 
 foreach (var student in students2)
